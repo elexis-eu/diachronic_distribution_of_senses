@@ -18,7 +18,7 @@ curl -X 'POST' \
   -d '[
   {"text":"The quick brown fox jumps over the lazy dog.", "lang":"EN"},
   {"text":"I walked along the river bank.", "lang":"EN"}
-]'
+]' 
 
 **3. Extract a sense distribution by clustering specific time periods**
 
