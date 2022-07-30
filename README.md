@@ -4,7 +4,7 @@ This repo allows you to carry out an analysis of the diachronic distribution of 
 
 **Download BabelNet and its API**
 
-TO download BabelNet and its API please follow the instructions at: https://babelnet.org/login
+To download BabelNet and its API please follow the instructions at: https://babelnet.org/login
 
 **Disambiguate corpora providing indication of time** 
 
