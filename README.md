@@ -1,6 +1,6 @@
 # Diachronic Distribution of Senses - D3.8
 
-This repo allows you to carry out an analysis of the diachronic distribution of senses. To do this please follow these steps:
+This repository allows you to carry out an analysis of the diachronic distribution of senses. To do this please follow these steps:
 
 **1. Download BabelNet and its API**
 
